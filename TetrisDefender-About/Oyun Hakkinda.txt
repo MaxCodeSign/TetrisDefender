@@ -1,0 +1,12 @@
+Tetris Defender
+
+-Oyunun Amacý: Bloklar  yere inmeden Patlatmak
+
+--30 sn bir Level atlýyor
+--30 sn bir Oyunun hýzý ve patlatmadan gelen Skor Artmakta
+--30 sn bir Arkaplan rengi deðiþiyor
+
+--Bloklar yere Ýndiðinde 1 can azalýyor
+-Toplam 3 can var
+
+LV-15 ten sonra bloklarýn hýzlanmaya baþlýyor ve oyun zorluðu yavaþ yavaþ hissediliyor :)
